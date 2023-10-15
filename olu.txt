@@ -5,3 +5,4 @@ meet me at home
 =======
 he is back from work by 6pm
 >>>>>>> fixit
+this is a test on how to edit on the remote repository
