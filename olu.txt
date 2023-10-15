@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 he is back
 where are you going
 meet me at home
+=======
+he is back from work by 6pm
+>>>>>>> fixit
