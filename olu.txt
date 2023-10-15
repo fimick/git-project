@@ -5,4 +5,8 @@ meet me at home
 =======
 he is back from work by 6pm
 >>>>>>> fixit
+<<<<<<< HEAD
 we are testing how git works on the local and remote repo
+=======
+this is a test on how to edit on the remote repository
+>>>>>>> origin/master
