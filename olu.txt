@@ -5,3 +5,4 @@ meet me at home
 =======
 he is back from work by 6pm
 >>>>>>> fixit
+we are testing how git works on the local and remote repo
